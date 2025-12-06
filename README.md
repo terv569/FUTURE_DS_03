@@ -1,4 +1,4 @@
-##Student Satisfaction Survey Analysis
+#Student Satisfaction Survey Analysis
 
 This repository contains code and assets for analyzing a Student Satisfaction Survey and generating a clear visual report using:
 
