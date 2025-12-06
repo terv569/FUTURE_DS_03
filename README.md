@@ -1,4 +1,4 @@
-Student Satisfaction Survey Analysis
+##Student Satisfaction Survey Analysis
 
 This repository contains code and assets for analyzing a Student Satisfaction Survey and generating a clear visual report using:
 
@@ -10,7 +10,7 @@ Word cloud (most frequent words from comments)
 
 The goal of this project is to make it easy to explore survey results, identify strengths and weaknesses, and communicate findings visually.
 
-📁 Project Structure
+##📁 Project Structure
 .
 ├── Student_Satisfaction_Survey.csv   # Raw survey data
 ├── survey_analysis.ipynb             # Main analysis notebook / script
